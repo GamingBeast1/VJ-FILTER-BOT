@@ -673,7 +673,7 @@ Also your tutorial will be Added Your Group..."""
     DEVELOPER_TXT = """
 NAME: Eᴋᴀᴍᴘʀᴇᴇᴛ Sɪɴɢʜ
 Usᴇʀɴᴀᴍᴇ: @EK4MPREETSINGH
-
+Dᴍ ʟɪɴᴋ: <a href=https://t.me/EK4MPREETSINGH>Hᴇʀᴇ</a>
 """
 
 
