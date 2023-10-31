@@ -55,9 +55,9 @@
             "required": false
         },
 
-        "LOG_CHANNEL": {
-            "description": "Bot Logs,Give a channel id with -100xxxxxxx",
-            "required": true
+        "FDQN": {
+            "description": "FDQN ID for streaming ",
+            "required": false
         },
         "DATABASE_URI": {
             "description": "mongoDB URI. Get this value from https://www.mongodb.com. For more help watch this video - https://youtu.be/dsuTn4qV2GA",
