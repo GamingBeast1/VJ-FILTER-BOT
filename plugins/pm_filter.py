@@ -1252,7 +1252,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         else:
             await query.message.edit_text('Sᴏᴍᴇ ᴇʀʀᴏʀ ᴏᴄᴄᴜʀʀᴇᴅ!!', parse_mode=enums.ParseMode.MARKDOWN)
         return await query.answer(MSG_ALRT)
-    elif "disconnect" in query.data:
+    elif "disconnect" in query.data:ddddddddd
         await query.answer()
 
         group_id = query.data.split(":")[1]
